@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently working on hosting a final version of a group project: Stackdew Valley.
-🌱 I’m currently learning TypeScript.
+🔭 I’m currently working on hosting a final version of a group project: Stackdew Valley.   
+🌱 I’m currently learning TypeScript.   
 
 📫 How to reach me: sophtompa@gmail.com
 <!--
