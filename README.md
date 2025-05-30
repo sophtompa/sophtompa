@@ -2,9 +2,7 @@
 
 My name is Sophie, and I have recently completed a course bootcamp in JavaScript basics. I have a particular interest in coding in JavaScript and Python.
 
-🔭 I’m currently working on hosting a final version of a group project: Stackdew Valley.   
-
-This is a project where I built a small web browser game with a team of five other people, which we based on our experience in Northcoders and the idea of making a career change into tech. The game involves farming elements, where you grow a coding student (a 'devling'), and battle scenes, where the students fight for a place in the job market. This was made mainly using JavaScript and Phaser.
+🔭 I’m currently working on hosting a final version of a group project: Stackdew Valley. This is a small game hosted in the web browser, based on our experience of the Northcoders bootcamp. This was mainly built using JavaScript and Phaser, with Tiled for visuals and Firebase for the database and hosting.
 
 You can find the hosted link here soon...
    
