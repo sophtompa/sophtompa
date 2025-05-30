@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sophie, and I have recently completed a course bootcamp in JavaScript basics. I have a particular interest in coding in JavaScript and Python.
+My name is Sophie, and I have recently completed a course bootcamp in JavaScript basics. I have a particular interest in JavaScript and Python.
 
 🔭 I’m currently working on hosting a final version of a group project: Stackdew Valley. This is a small game hosted in the web browser, based on our experience of the Northcoders bootcamp. This was mainly built using JavaScript and Phaser, with Tiled for visuals and Firebase for the database and hosting.
 
